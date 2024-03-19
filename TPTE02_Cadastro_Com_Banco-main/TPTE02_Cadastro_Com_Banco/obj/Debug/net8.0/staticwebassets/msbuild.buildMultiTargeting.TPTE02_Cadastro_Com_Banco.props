@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TPTE02_Cadastro_Com_Banco.props" />
+</Project>
